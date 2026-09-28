@@ -50,6 +50,14 @@ Features
 - Revealed patient profile patterns across age groups and gender
 - Compared hospitals on patient load, revenue, average bill and length of stay to spot high and low performers
 
+## Repository Structure
+  
+Hospital-Data-Analysis/
+├── data/            # Cleaned dataset (anonymised)
+├── dashboard/       # Power BI (.pbix) file
+├── images/          # Dashboard screenshots
+└── README.md  
+
 ## Dashboard 
 
 
@@ -59,7 +67,12 @@ Features
 
 <img width="1106" height="586" alt="hospital data img 3" src="https://github.com/user-attachments/assets/d5ef775e-5439-4e54-a888-caf7d1da4743" />
 
-  
+## 🚀 How to Use
+
+1. Download or clone this repository
+2. Open the .pbix file in Power BI Desktop
+3. Use the slicers and drill-down to explore the data
+
 
 ## 📬 Connect With Me
 
