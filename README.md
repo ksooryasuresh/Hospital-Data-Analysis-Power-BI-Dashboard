@@ -18,7 +18,7 @@ Hospitals generate large volumes of patient, treatment and billing data, but raw
 The dataset contains hospital admission records with fields such as:
 
 | Category	| Example Fields
-|_______________\______________|
+|--------|------|
 | Patient |	Patient ID, Age, Gender, Blood Group |
 | Clinical  |	Disease / Diagnosis, Treatment Type, Doctor |
 | Admission	| Admission Date, Discharge Date, Length of Stay|
