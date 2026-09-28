@@ -53,7 +53,11 @@ Features
 ## Dashboard 
 
 
-![Dashboard](images/<img width="1102" height="586" alt="hospital data img 1" src="https://github.com/user-attachments/assets/a9063c5c-5395-4718-802d-cc79c264441b" />
+<img width="1102" height="586" alt="hospital data img 1" src="https://github.com/user-attachments/assets/a9063c5c-5395-4718-802d-cc79c264441b" />
+
+<img width="1102" height="583" alt="hospital data img 2" src="https://github.com/user-attachments/assets/109699a2-d82d-447e-8102-d61840250428" />
+
+<img width="1106" height="586" alt="hospital data img 3" src="https://github.com/user-attachments/assets/d5ef775e-5439-4e54-a888-caf7d1da4743" />
 
   
 
