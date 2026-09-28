@@ -50,13 +50,7 @@ Features
 - Revealed patient profile patterns across age groups and gender
 - Compared hospitals on patient load, revenue, average bill and length of stay to spot high and low performers
 
-## Repository Structure
-  
-Hospital-Data-Analysis/
-├── data/            # Cleaned dataset (anonymised)
-├── dashboard/       # Power BI (.pbix) file
-├── images/          # Dashboard screenshots
-└── README.md  
+ 
 
 ## Dashboard 
 
