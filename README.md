@@ -50,6 +50,13 @@ Features
 - Revealed patient profile patterns across age groups and gender
 - Compared hospitals on patient load, revenue, average bill and length of stay to spot high and low performers
 
+## Dashboard 
+
+
+![Dashboard](images/<img width="1102" height="586" alt="hospital data img 1" src="https://github.com/user-attachments/assets/a9063c5c-5395-4718-802d-cc79c264441b" />
+
+  
+
 ## 📬 Connect With Me
 
 Soorya Suresh  LinkedIn: www.linkedin.com/in/sooryasureshk     Email: ksooryasuresh@gmail.com
