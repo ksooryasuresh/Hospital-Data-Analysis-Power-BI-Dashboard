@@ -17,12 +17,13 @@ Hospitals generate large volumes of patient, treatment and billing data, but raw
 
 The dataset contains hospital admission records with fields such as:
 
-Category	Example Fields
-Patient	Patient ID, Age, Gender, Blood Group
-Clinical	Disease / Diagnosis, Treatment Type, Doctor
-Admission	Admission Date, Discharge Date, Length of Stay
-Hospital	Hospital Name, City / Region, Department
-Financial	Room Charges, Medicine Cost, Treatment Cost, Discount, Insurance
+| Category	| Example Fields
+|_______________\______________|
+| Patient |	Patient ID, Age, Gender, Blood Group |
+| Clinical  |	Disease / Diagnosis, Treatment Type, Doctor |
+| Admission	| Admission Date, Discharge Date, Length of Stay|
+| Hospital	| Hospital Name, City / Region, Department|
+| Financial |	Room Charges, Medicine Cost, Treatment Cost, Discount, Insurance |
 
 ## 🧹 Data Cleaning & Validation (Excel)
 
